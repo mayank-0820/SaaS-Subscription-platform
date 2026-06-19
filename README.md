@@ -191,6 +191,6 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_...
 
 ## 📧 Contact
 
-**Submitted by:** [Your Name]  
-**Email:** vaishali@codectechnologies.in  
+**Submitted by:** Mayank Sharma 
+**Email:** mayank.a0820@gmail.com
 **Project:** SaaS Subscription Management Platform
